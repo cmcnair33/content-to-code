@@ -21,7 +21,7 @@ deliverables: "A GitHub Issue"
 
 ## Hand in
 
-On GitHub’s website, on your forked repository, create an Issue labeled “Solution”—and tag your teacher.
+On GitHub’s website, on your forked repository, create an Issue labeled “Solution” and tag your teacher.
 
 Inside the content of the Issue write out your tag choices & explanations. Here’s an example:
 
